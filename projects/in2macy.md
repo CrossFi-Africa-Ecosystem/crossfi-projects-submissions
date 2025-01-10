@@ -36,13 +36,14 @@ Create an example project template file (`projects/example-project.md`):
 - **Frontend:** [React/TailwindCSS]
 
 ## Screenshots/Demo
-Add screenshots or a link to a demo/video showcasing your project.
+![In2Macy Sreenshot](image.png)
 
 ## Team
 - [Name](Link to Profile)
 - [Name](Link to Profile)
 
 ## Links
-- [GitHub Repository](#)
-- [Live Demo](#)
+- [https://github.com/ECLA2025/in2macy](#)
+- [https://crossfi-test.dex.guru/address/0x69cba83db2a2a7909dfe86890e1009dd587d7803](#)
+- [https://in2macy-landing.onrender.com/](#)
 - [Documentation](#)
