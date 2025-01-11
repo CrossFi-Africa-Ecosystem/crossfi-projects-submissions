@@ -2,7 +2,7 @@
 ---
 
 ### **Project Submission Template**
-Create an example project template file (`projects/example-project.md`):
+Create an example project template file (`dezenmart.md`):
 
 # Project Name: [Dezenmart]
 
@@ -10,21 +10,24 @@ Create an example project template file (`projects/example-project.md`):
 DezenMart is shaping the future of eCommerce. It is a decentralized marketplace designed to empower artisans, creators, and small businesses by connecting them directly with buyers through a secure and transparent platform.
 
 ## Features
-- eCommerce.
-- Native wallet
-- External wallet e.g. Metamask
+- eCommerce
+- Showroom for Artisans and Creators
+- Escrow via Smart Contract
+- DeFi
+- Native & External wallet integration
+- Community-Driven Approach
 
 ## Tech Stack
 - **Blockchain:** [CrossFi]
 - **Backend:** [Laravel/PHP/MySQL]
-- **Frontend:** [React/TailwindCSS]
+- **Frontend:** [React/Blade/TailwindCSS]
 
 ## Screenshots/Demo
 https://medium.com/@dezenmart
 
 ## Team
 - [Name](Link to Profile)
-- [Name](Link to Profile)
+- [Chisom Nwachukwu](https://chisomsamson.me)
 
 ## Links
 - [GitHub Repository](https://github.com/cnsair/dezenmart)
