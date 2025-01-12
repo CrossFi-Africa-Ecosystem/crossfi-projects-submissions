@@ -1,5 +1,4 @@
 
----
 # Project Name: [Dezenmart]
 
 ## Project Description
@@ -22,8 +21,11 @@ DezenMart is shaping the future of eCommerce. It is a decentralized marketplace 
 https://medium.com/@dezenmart
 
 ## Team
-- [Name](Link to Profile)
+- [Ibukun Ladeji]((https://www.linkedin.com/in/ibukun-ladeji-6228209b))
 - [Chisom Nwachukwu](https://chisomsamson.me)
+- [Ayoade Adewale](https://www.linkedin.com/in/ayoade-adewale-a7b494246/)
+- [Ogunshina Ismail](https://github.com/ogunshinaismail)
+- [Ladebi]()
 
 ## Links
 - [GitHub Repository](https://github.com/cnsair/dezenmart)
