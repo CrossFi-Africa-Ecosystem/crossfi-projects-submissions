@@ -1,9 +1,5 @@
 
 ---
-
-### **Project Submission Template**
-Create an example project template file (`dezenmart.md`):
-
 # Project Name: [Dezenmart]
 
 ## Project Description
