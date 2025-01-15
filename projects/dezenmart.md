@@ -2,7 +2,7 @@
 # Project Name: [Dezenmart]
 
 ## Project Description
-DezenMart is shaping the future of eCommerce. It is a decentralized marketplace designed to empower artisans, creators, and small businesses by connecting them directly with buyers through a secure and transparent platform.
+Dezenmart is shaping the future of eCommerce. It is a decentralized marketplace designed to empower artisans, creators, and small businesses by connecting them directly with buyers through a secure and transparent platform.
 
 ## Features
 - eCommerce
@@ -29,5 +29,5 @@ https://medium.com/@dezenmart
 
 ## Links
 - [GitHub Repository](https://github.com/cnsair/dezenmart)
-- [Live Demo](#)
-- [Documentation](#)
+- [Live Demo](htpps://dezenmart.com)
+- [Documentation](htpps://dezenmart.com/terms)
