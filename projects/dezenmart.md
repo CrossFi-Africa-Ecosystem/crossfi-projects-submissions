@@ -28,6 +28,6 @@ https://medium.com/@dezenmart
 - [LaDebbie Mack](https://www.linkedin.com/in/latunjidebbie/)
 
 ## Links
-- [GitHub Repository](https://github.com/cnsair/dezenmart)
-- [Live Demo](htpps://dezenmart.com)
-- [Documentation](htpps://dezenmart.com/terms)
+- [GitHub Repository](https://github.com/dezenmart/dezenmart)
+- [Live Demo](https://dezenmart.com)
+- [Documentation](https://dezenmart.com/terms-of-service)
