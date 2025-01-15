@@ -25,7 +25,7 @@ https://medium.com/@dezenmart
 - [Chisom Nwachukwu](https://chisomsamson.me)
 - [Ayoade Adewale](https://www.linkedin.com/in/ayoade-adewale-a7b494246/)
 - [Ogunshina Ismail](https://github.com/ogunshinaismail)
-- [Ladebi](https://www.linkedin.com/in/ladebbie)
+- [LaDebbie Mack](https://www.linkedin.com/in/latunjidebbie/)
 
 ## Links
 - [GitHub Repository](https://github.com/cnsair/dezenmart)
