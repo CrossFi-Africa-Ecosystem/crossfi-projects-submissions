@@ -20,7 +20,7 @@ A blockchain-based platform that enables communities to efficiently share and tr
 
 ## Screenshots/Demo
 
-<img src="./assets/Screenshot 2025-02-09 at 18.49.28.png" alt="Alt text" width="300">
+![Homepage Screenshot](https://drive.google.com/file/d/1PCTM9KijUUx4TYxS8_4bFo2r7GX9DTqB/view?usp=drive_link)
 
 ## Team
 
